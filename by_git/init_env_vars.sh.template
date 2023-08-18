@@ -1,0 +1,4 @@
+echo "使用前需先修改下面3个变量"
+export GIT_REPO="git@gitee.com:aaa/appname.git"
+export BRANCH_NAME="release"
+export LOCAL_DIR="/APP/appname"
